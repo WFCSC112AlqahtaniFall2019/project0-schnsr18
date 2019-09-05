@@ -31,7 +31,7 @@ int main() {
                 realX = x;
                 realY = y;
                 answer = 5; // answer will only =5 if a value of realX and realY is found as a solution
-                cout << "Output: " << realX << " " << realY << endl;
+                cout << "        Output: " << realX << " " << realY << endl;
             }
 
 
