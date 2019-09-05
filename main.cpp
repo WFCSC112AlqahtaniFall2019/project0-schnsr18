@@ -23,8 +23,7 @@ int main() {
     for (x = -10; x < 10; x++) {
         for (y = -10; y < 10; y++) {
 
-            check1 = a * x + b * y;
-            check2 = d * x + e * y;
+
 
             if ((a * x + b * y == c) && (d * x + e * y == f)) {
 
